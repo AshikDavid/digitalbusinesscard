@@ -1,0 +1,19 @@
+.footer{
+    display: flex;
+    margin: 24px 0 0;
+    justify-content: center;
+    align-items: center;
+    gap:25px;
+    background-color: #161619;
+    
+    
+}
+.footer-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
+.footer img {
+  width: 30px;
+}
