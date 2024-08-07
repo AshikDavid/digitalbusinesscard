@@ -7,7 +7,7 @@ import Linkedin from "../images/linkedin-icon.png"
 export default function Info(){
     return(
         <div className="info">
-            <img className="info-pic" src={Profile} alt="Profile Picture" />
+            <img className="info-pic" src={Profile} alt="Profile" />
             <div>
                 <h2 className="info--name">Laura Smith</h2>
                 <h3 className="info--designation">Frontend Developer</h3>
