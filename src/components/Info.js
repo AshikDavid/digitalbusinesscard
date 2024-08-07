@@ -11,7 +11,7 @@ export default function Info(){
             <div>
                 <h2 className="info--name">Laura Smith</h2>
                 <h3 className="info--designation">Frontend Developer</h3>
-                <a href="" className="info--website">laurasmith.website</a>
+                <button className="info--website">laurasmith.website</button>
                 <div className="info--buttons">
                  <button className="info--button--email"><img src={Email} alt="Email"/>Email</button>
                  <button className="info--button--linkedin"><img src ={Linkedin} alt="Linkedin"/> LinkedIn</button>
